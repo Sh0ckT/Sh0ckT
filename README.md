@@ -19,7 +19,7 @@ In the hope of working with you soon.
 
 ![Shotcut](https://img.shields.io/badge/Shotcut-115C77.svg?style=for-the-badge&logo=Shotcut&logoColor=white)
 
-![Microsoft Words](https://img.shields.io/badge/Microsoft Word-2B579A.svg?style=for-the-badge&logo=Microsoft-Word&logoColor=white)
+![Microsoft Words](https://img.shields.io/badge/MicrosoftWord-2B579A.svg?style=for-the-badge&logo=Microsoft-Word&logoColor=white)
 
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)
 
